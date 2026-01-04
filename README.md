@@ -60,64 +60,9 @@ Aquí encontrarás el listado de retos, su fecha de publicación, dificultad y e
 * **#47** - 04/12/23 | Fácil | [`LA PALABRA DE 100 PUNTOS`](./Retos/Reto%20%2347%20-%20LA%20PALABRA%20DE%20100%20PUNTOS%20%5BFácil%5D/ejercicio.md) | Correcciones: [[MI SOLUCIÓN](./Retos/Reto%20%2347%20-%20LA%20PALABRA%20DE%20100%20PUNTOS%20%5BFácil%5D/python/mouredev.py)] [[COMUNIDAD](./Retos/Reto%20%2347%20-%20LA%20PALABRA%20DE%20100%20PUNTOS%20%5BFácil%5D/)]
 * **#48** - 11/12/23 | Difícil | [`EL RANKING`](./Retos/Reto%20%2348%20-%20EL%20RANKING%20%5BDifícil%5D/ejercicio.md) | Correcciones: [[MI SOLUCIÓN](./Retos/Reto%20%2348%20-%20EL%20RANKING%20%5BDifícil%5D/python/mouredev.py)] [[COMUNIDAD](./Retos/Reto%20%2348%20-%20EL%20RANKING%20%5BDifícil%5D/)
 
-> **[[NUEVO] Retos de programación 2024](https://github.com/mouredev/roadmap-retos-programacion)**
-> 
-> [![Retos Semanales](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Retos%20Programación%202024&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
-*Puedes ejecutar el archivo [language_stats.py](./Retos/language_stats.py) para visualizar las estadísticas de uso de cada lenguaje.*
+## [FORK] del proyecto
 
-**Consulta los 52 retos de programación y las 12 aplicaciones para tu portfolio de 2022:**
+**Haz un [FORK] del proyecto y trabaja con Git para ir sincronizando las actualizaciones.**
+En el proyecto tienes un directorio para cada ejercicio. Dentro de cada directorio encontrarás un fichero llamado **ejercicio.md** con el enunciado.
 
-[![Retos Semanales](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![Retos mensuales](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales%202022&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
-
-## ¿Cómo puedo participar?
-
-**Haz un [FORK](https://github.com/mouredev/retos-programacion-2023/fork) del proyecto y trabaja con Git para ir sincronizando las actualizaciones.**
-
-1. En el proyecto tienes un directorio para cada ejercicio. Dentro de cada directorio encontrarás un fichero llamado **ejercicio.md** con el enunciado de cada reto.
-2. Si quieres compartir tu propia solución de un ejercicio con la comunidad, crea un fichero de código con tu nombre y extensión, y realiza una [**PULL REQUEST**](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) contra el repositorio.
-3. El fichero de código debe situarse dentro del directorio del reto, en la carpeta correspondiente al lenguaje de programación utilizado (si no existe la carpeta del lenguaje, créala con todas sus letras en minúsculas). Por ejemplo, si has resuelto el reto #0 utilizando el lenguaje de programación Kotlin y tu usuario de GitHub se llama mouredev, tu corrección deberá estar en **"Retos/Reto #0/kotlin/mouredev.kt"**. El título de la Pull Request también debe seguir este formato: **"Reto #[número] - [lenguaje_utilizado]"**. En el ejemplo anterior sería **"Reto #0 - Kotlin"**. Se rechazarán las Pull Request que no sigan este formato o contengan ficheros adicionales.
-4. Cada **SEMANA** (consulta el día en el ejercicio correspondiente) realizaré una transmisión en directo desde **[Twitch](https://twitch.tv/mouredev)** corrigiendo el reto, revisando soluciones de la comunidad y publicando un nuevo ejercicio.
-5. Si necesitas ayuda o quieres comentar cualquier cosa sobre los retos semanales, tienes el canal "reto-semanal” en nuestro servidor de **[Discord](https://discord.gg/mouredev)** (también el día y horario de corrección en la sección “Eventos”).
-6. Puedes proponer Pull Request con propuestas o correcciones sobre ejercicios del resto de la comunidad si estos poseen errores. De esta manera colaboraremos para crear un repositorio cada vez más valioso.
-7. Si se te solicita un cambio/corrección en una Pull Request, y al cabo de 2 semanas no se muestra nueva actividad, se cerrará esa petición para mantener el repositorio limpio. Por supuesto, puedes volver a enviar la Pull Request cuando quieras.
-
-## Aclaraciones
-
-Si tienes dudas con el nombre del directorio de algún lenguaje, intenta consultar el nombre que se ha empleado en ejercicios anteriores. Algunos ejemplos que puedes llegar a dudar:
-    
-* c#, no csharp
-* c++, no cplusplus
-* go, no golang
-* javascript, no js
-	
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
-
-## Únete al campus de programación de la comunidad
-
-![https://mouredev.pro](./Images/pro.jpg)
-
-#### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
-
-> **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
-> 
-> Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
-
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-### Freelance full-stack iOS & Android engineer
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
-
-Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
-
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
-
-[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
