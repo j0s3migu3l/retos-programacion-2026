@@ -1,5 +1,6 @@
 # Retos de programación
 ### Retos para practicar lógica de programación utilizando cualquier lenguaje.
+NOTA Importante: forked from mouredev/retos-programacion-2023
 
 ## Información importante
 
